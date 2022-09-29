@@ -39,3 +39,4 @@ This script has been tested on
     - Debian 7
     - Debian 8
     - Ubuntu 14
+    - Centos 7
