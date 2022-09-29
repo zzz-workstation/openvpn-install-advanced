@@ -11,11 +11,12 @@ Generating 4096bit Diffie-Hellman parameters can take few hours if you have a re
 
 Available symmetrical ciphers are: 
 
-                                   AES-256-CBC
-                                   AES-128-CBC
-                                   BF-CBC
-                                   CAMELLIA-256-CBC
-                                   CAMELLIA-128-CBC
+     - AES-256-CBC
+     - AES-128-CBC
+     - BF-CBC
+     - CAMELLIA-256-CBC
+     - CAMELLIA-128-CBC
+     
 You can choose between 256bit or 512bit SHA2 digest.
 
 You can choose whether or not use a static preshared key for an additional layer of security.
